@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Players' Player",
+  "base_artist": "OZROSAURUS",
+  "createdAt": "2026-03-25T14:21:29.680446Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Female Guitar Players Are the New Black",
+      "artist": "Marnie Stern",
+      "has_synced": false,
+      "path": "select/01_Female_Guitar_Players_Are_the_New_Black_Marnie_Stern.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Introducing Palace Players",
+      "artist": "MEW",
+      "has_synced": true,
+      "path": "select/02_Introducing_Palace_Players_MEW.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Waltze Of The Tennis Players",
+      "artist": "Meg Baird",
+      "has_synced": false,
+      "path": "select/03_The_Waltze_Of_The_Tennis_Players_Meg_Baird.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Player's Ball",
+      "artist": "OutKast",
+      "has_synced": true,
+      "path": "select/04_Player's_Ball_OutKast.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Player's Ball (Reprise)",
+      "artist": "OutKast",
+      "has_synced": true,
+      "path": "select/05_Player's_Ball_(Reprise)_OutKast.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hater Players",
+      "artist": "Black Star",
+      "has_synced": true,
+      "path": "select/06_Hater_Players_Black_Star.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Gentlemen and Players",
+      "artist": "The Duckworth Lewis Method",
+      "has_synced": false,
+      "path": "select/07_Gentlemen_and_Players_The_Duckworth_Lewis_Method.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Players (Only Love You When They're Playing) - Clean Album Version",
+      "artist": "Crazy Town",
+      "has_synced": false,
+      "path": "select/08_Players_(Only_Love_You_When_They're_Playing)_-_Clean_Album_Version_Crazy_Town.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Player's Anthem",
+      "artist": "Junior M.A.F.I.A.",
+      "has_synced": true,
+      "path": "select/09_Player's_Anthem_Junior_M.A.F.I.A..lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Players",
+      "artist": "Slum Village",
+      "has_synced": true,
+      "path": "select/10_Players_Slum_Village.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Players Club - From Jxmtro",
+      "artist": "Rae Sremmurd feat. Swae Lee & Slim Jxmmi",
+      "has_synced": true,
+      "path": "select/11_Players_Club_-_From_Jxmtro_Rae_Sremmurd_feat._Swae_Lee_&_Slim_Jxmmi.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Players Club",
+      "artist": "Slim Jxmmi",
+      "has_synced": true,
+      "path": "select/12_Players_Club_Slim_Jxmmi.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Int'l Players Anthem (I Choose You)",
+      "artist": "UGK",
+      "has_synced": true,
+      "path": "select/13_Int'l_Players_Anthem_(I_Choose_You)_UGK.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Int'l Players Anthem (I Choose You)",
+      "artist": "UGK feat. Three 6 Mafia",
+      "has_synced": false,
+      "path": "select/14_Int'l_Players_Anthem_(I_Choose_You)_UGK_feat._Three_6_Mafia.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Int'l Players Anthem (I Choose You) (Feat. Three 6 Mafia)",
+      "artist": "UGK",
+      "has_synced": false,
+      "path": "select/15_Int'l_Players_Anthem_(I_Choose_You)_(Feat._Three_6_Mafia)_UGK.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Attention (Bingo Players Remix)",
+      "artist": "Charlie Puth",
+      "has_synced": true,
+      "path": "select/16_Attention_(Bingo_Players_Remix)_Charlie_Puth.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Players",
+      "artist": "Coi Leray",
+      "has_synced": true,
+      "path": "select/17_Players_Coi_Leray.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Players' Player feat. KREVA",
+      "artist": "OZROSAURUS",
+      "has_synced": false,
+      "path": "select/pl_01_Players'_Player_feat._KREVA_OZROSAURUS.txt"
+    }
+  ]
+}
